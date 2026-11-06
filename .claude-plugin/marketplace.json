@@ -1,0 +1,15 @@
+{
+  "name": "monthlet",
+  "description": "The monthlet plugin for Claude Code: use the notes in your local monthlet vault.",
+  "owner": {
+    "name": "t27d",
+    "url": "https://monthlet.ai"
+  },
+  "plugins": [
+    {
+      "name": "monthlet",
+      "source": "./",
+      "description": "Search, read and edit the notes in your local monthlet vault from Claude. Requires the monthlet app to be running with its MCP server turned on."
+    }
+  ]
+}

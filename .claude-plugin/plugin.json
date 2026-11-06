@@ -1,0 +1,14 @@
+{
+  "name": "monthlet",
+  "displayName": "monthlet",
+  "description": "Search, read and edit the notes in your local monthlet vault from Claude. Requires the monthlet app to be running with its MCP server turned on.",
+  "version": "1.2.1",
+  "author": {
+    "name": "t27d",
+    "url": "https://monthlet.ai"
+  },
+  "homepage": "https://monthlet.ai",
+  "repository": "https://github.com/t27d/monthlet-mcp",
+  "license": "MIT",
+  "keywords": ["notes", "markdown", "local", "vault", "knowledge-base"]
+}
