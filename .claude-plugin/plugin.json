@@ -9,6 +9,10 @@
   },
   "homepage": "https://monthlet.ai",
   "repository": "https://github.com/t27d/monthlet-mcp",
+  "documentationUrl": "https://monthlet.ai/docs/mcp/",
+  "supportUrl": "https://monthlet.ai/help/",
+  "privacyPolicyUrl": "https://monthlet.ai/privacy/",
+  "termsOfServiceUrl": "https://monthlet.ai/terms/",
   "license": "MIT",
   "keywords": ["notes", "markdown", "local", "vault", "knowledge-base"]
 }
